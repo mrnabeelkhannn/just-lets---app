@@ -9,4 +9,4 @@ requirements = python3,kivy,requests
 orientation = portrait
 fullscreen = 1
 android.permissions = INTERNET
-android.ndk = 25cp
+android.ndk = 25b
